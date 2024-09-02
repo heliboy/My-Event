@@ -1,4 +1,6 @@
 **My Event App**
+
+
 Welcome to the My Event app repository! This mobile application is designed to enhance the experience of event attendees by providing multiple live video streams, scoreboards, and audio commentary options.
 
 Features
@@ -12,14 +14,14 @@ Include some screenshots of your app here to give users a visual overview of wha
 Installation
 Prerequisites
 iOS device or emulator.
-Xcode installed on your development machine.
+Xcode is installed on your development machine.
 A valid Apple Developer Account for testing on physical devices.
 Setup
 Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/my-event-app.git
+git clone https://github.com/heliboy/My-Event/
 cd my-event-app
 Install dependencies:
 
