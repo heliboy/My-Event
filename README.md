@@ -1,4 +1,4 @@
-|||**My Event App**
+**My Event App**
 Welcome to the My Event app repository! This mobile application is designed to enhance the experience of event attendees by providing multiple live video streams, scoreboards, and audio commentary options.
 
 Features
