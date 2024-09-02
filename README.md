@@ -1,8 +1,8 @@
-My Event App
+|||**My Event App**
 Welcome to the My Event app repository! This mobile application is designed to enhance the experience of event attendees by providing multiple live video streams, scoreboards, and audio commentary options.
 
 Features
-Live Streaming: Watch up to 6 different views of the event in real-time.
+Live Streaming: Watch up to 6 different views of the event in real time.
 Scoreboards: Stay updated with live scoreboards integrated into the app.
 Audio Commentary: Choose from different audio streams, including commentary, crowd noise, and more.
 User-friendly Interface: Simple, intuitive interface for easy navigation and viewing.
